@@ -1,0 +1,57 @@
+{
+  "project": "Zzz",
+  "entries": [
+    {
+      "version": "1.0.4",
+      "date": "2026-07-25",
+      "changes": [
+        "/aura — check your aura level with a random anime GIF",
+        "/cet — pop a random cat image",
+        "/random — randomly pick N people from a list",
+        "/afk — toggle [AFK] prefix on your nickname",
+        "/terms — view Terms of Service & Privacy Policy"
+      ]
+    },
+    {
+      "version": "1.0.3",
+      "date": "2026-07-22",
+      "changes": [
+        "/coinflip — flip a coin with up to 5 animated rounds.",
+        "Fixed /gayrate percentage formatting.",
+        "Improved /userinfo — added Key Permissions, copyable ID, better date format & role color.",
+        "Custom status now shows Weapon Ball Z build link.",
+        "/8ball expanded to 500 classic answers."
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "date": "2026-07-21",
+      "changes": [
+        "/8ball — ask the magic 8-ball a question.",
+        "/userinfo — view detailed info about any member.",
+        "/avatar — view and download full-size avatars in .png.",
+        "Changelog now has a shiny emoji badge in the header.",
+        "Picker & changelog buttons never expire anymore."
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-07-20",
+      "changes": [
+        "/rw — random anime waifu image (like /toaster but waifu!).",
+        "/gayrate — measure the 🌈 of yourself or someone else.",
+        "/changelog now has ◀️ ▶️ pagination buttons to browse versions.",
+        "Added <:warning:1528997120433193132> emoji to the Remove All Roles button."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-07-19",
+      "changes": [
+        "Role picker menu — click to get a role, click again to remove it.",
+        "Quick role search box & pagination when there are many roles.",
+        "/toaster — view random toast photos from Flickr."
+      ]
+    }
+  ]
+}

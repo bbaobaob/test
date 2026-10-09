@@ -1,0 +1,20 @@
+node_modules/
+.env
+logs/
+*.log
+*.log.*
+data/state.json
+data/stats.json
+data/stats.db
+data/stats.db-journal
+data/stats.db-wal
+data/stats.db-shm
+data/seen_images.json
+runtime/
+*.bak
+*.tmp
+
+# agent / tooling local state
+.omo/
+.opencode/
+.codegraph/
